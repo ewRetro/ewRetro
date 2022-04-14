@@ -15,8 +15,8 @@
 
 ## <h3 align="center">SOCIAL'S / CONNECTIONS</h3>
 
-- 📫 My website [website]
+- 📫 My [website]
 <br >
 <br >
 
-[website]: retrogray.com
+[website]: https://retrogray.com/
