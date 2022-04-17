@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername" alt="yourusername" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true" alt="yourusername" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ewRetro&show_icons=true" alt="ewRetro" /></p>
 
 ## <h3 align="center">SOCIAL'S / CONNECTIONS</h3>
 
